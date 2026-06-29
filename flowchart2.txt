@@ -1,0 +1,5 @@
+flowchart TD
+    A([START]) --> B[/INPUT grade1, grade2, grade3/]
+    B --> C[PROCESS average = grade1 + grade2 + grade3 / 3]
+    C --> D[/DISPLAY average/]
+    D --> E([END])

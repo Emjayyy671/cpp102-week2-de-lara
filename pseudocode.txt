@@ -1,0 +1,35 @@
+ACTIVITY LAB 1: Add Two Numbers
+
+PSUEDOCODE
+
+START
+INPUT num1
+INPUT num2
+PROCESS sum = num1 + num2
+DISPLAY sum
+END
+
+ACTIVITY LAB 2: Compute the Average of Three Grades
+
+PSUEDOCODE
+
+START
+INPUT grade1
+INPUT grade2
+INPUT grade3
+PROCESS average = (grade1 + grade2 + grade3)
+DISPLAY average
+END
+
+ACTIVITY LAB 3: Determine if the Number is Even or Odd
+
+PSUEDOCODE
+
+START
+INPUT number
+IF number MOD 2 = 0 THEN
+    DISPLAY "Even"
+ELSE
+    DISPLAY "Odd"
+END IF
+END
